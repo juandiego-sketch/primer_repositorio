@@ -1,0 +1,10 @@
+Comandos basicos
+git init
+git config --global user.name"juandiego-sketch"
+git config --global user.email jdpatinocu84@inemkennedy.edu.co
+git config user.name
+git config user.email
+clear
+git status
+git add .
+git commit -m "listo para subir"
